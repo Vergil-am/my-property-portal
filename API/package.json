@@ -1,0 +1,29 @@
+{
+  "name": "e-shop-be",
+  "version": "1.0.0",
+  "description": "propety portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ouali Amine",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.29.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "cryptojs": "^2.5.3",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "gridfs-stream": "^1.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.6.1",
+    "multer": "^1.4.4",
+    "multer-gridfs-storage": "^5.0.2",
+    "nodemon": "^2.0.20"
+  }
+}
